@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark</name>
-	      <url>http://18.209.152.176:8081/repository/maven-web-app-snapshots/</url>
+	      <url>http://18.209.152.176:8081/repository/maven-web-app-releases/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
