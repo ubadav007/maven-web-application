@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Landmark</name>
 	      <url>http://18.209.152.176:8081/repository/maven-web-app-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Landmark</name>
 	      <url>http://18.209.152.176:8081/repository/maven-web-app-snapshots/</url>
 	    </snapshotRepository>
 	    
