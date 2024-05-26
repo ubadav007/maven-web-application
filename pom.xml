@@ -96,16 +96,16 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark</name>
+	      <name>maven-web-app-releases</name>
 	      <url>http://18.209.152.176:8081/repository/maven-web-app-releases/</url>
 	    </repository>
-	  <!--  
+  
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark</name>
+	      <name>maven-web-app-snapshots</name>
 	      <url>http://18.209.152.176:8081/repository/maven-web-app-snapshots/</url>
 	    </snapshotRepository>
-	   --> 
+	    
 	</distributionManagement>
 	
 	<build>
